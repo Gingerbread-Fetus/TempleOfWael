@@ -1,0 +1,57 @@
+[
+	{
+		"file": "D:\\\\Unreal\\\\TempleOfWael\\\\Source\\\\TempleOfWael\\\\TempleOfWael.Build.cs",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Community\\VC\\Tools\\MSVC\\14.16.27023\\bin\\HostX64\\x64\\cl.exe @\"D:\\Unreal\\TempleOfWael\\.vscode\\compileCommands_Default\\TempleOfWael.210.rsp\"",
+		"directory": "D:\\UE 4.27\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\Unreal\\\\TempleOfWael\\\\Source\\\\TempleOfWael\\\\TempleOfWael.cpp",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Community\\VC\\Tools\\MSVC\\14.16.27023\\bin\\HostX64\\x64\\cl.exe @\"D:\\Unreal\\TempleOfWael\\.vscode\\compileCommands_Default\\TempleOfWael.210.rsp\"",
+		"directory": "D:\\UE 4.27\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\Unreal\\\\TempleOfWael\\\\Source\\\\TempleOfWael\\\\TempleOfWael.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Community\\VC\\Tools\\MSVC\\14.16.27023\\bin\\HostX64\\x64\\cl.exe @\"D:\\Unreal\\TempleOfWael\\.vscode\\compileCommands_Default\\TempleOfWael.210.rsp\"",
+		"directory": "D:\\UE 4.27\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\Unreal\\\\TempleOfWael\\\\Source\\\\TempleOfWael\\\\TempleOfWaelCharacter.cpp",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Community\\VC\\Tools\\MSVC\\14.16.27023\\bin\\HostX64\\x64\\cl.exe @\"D:\\Unreal\\TempleOfWael\\.vscode\\compileCommands_Default\\TempleOfWael.210.rsp\"",
+		"directory": "D:\\UE 4.27\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\Unreal\\\\TempleOfWael\\\\Source\\\\TempleOfWael\\\\TempleOfWaelCharacter.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Community\\VC\\Tools\\MSVC\\14.16.27023\\bin\\HostX64\\x64\\cl.exe @\"D:\\Unreal\\TempleOfWael\\.vscode\\compileCommands_Default\\TempleOfWael.210.rsp\"",
+		"directory": "D:\\UE 4.27\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\Unreal\\\\TempleOfWael\\\\Source\\\\TempleOfWael\\\\TempleOfWaelGameMode.cpp",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Community\\VC\\Tools\\MSVC\\14.16.27023\\bin\\HostX64\\x64\\cl.exe @\"D:\\Unreal\\TempleOfWael\\.vscode\\compileCommands_Default\\TempleOfWael.210.rsp\"",
+		"directory": "D:\\UE 4.27\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\Unreal\\\\TempleOfWael\\\\Source\\\\TempleOfWael\\\\TempleOfWaelGameMode.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Community\\VC\\Tools\\MSVC\\14.16.27023\\bin\\HostX64\\x64\\cl.exe @\"D:\\Unreal\\TempleOfWael\\.vscode\\compileCommands_Default\\TempleOfWael.210.rsp\"",
+		"directory": "D:\\UE 4.27\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\Unreal\\\\TempleOfWael\\\\Source\\\\TempleOfWael\\\\TempleOfWaelHUD.cpp",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Community\\VC\\Tools\\MSVC\\14.16.27023\\bin\\HostX64\\x64\\cl.exe @\"D:\\Unreal\\TempleOfWael\\.vscode\\compileCommands_Default\\TempleOfWael.210.rsp\"",
+		"directory": "D:\\UE 4.27\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\Unreal\\\\TempleOfWael\\\\Source\\\\TempleOfWael\\\\TempleOfWaelHUD.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Community\\VC\\Tools\\MSVC\\14.16.27023\\bin\\HostX64\\x64\\cl.exe @\"D:\\Unreal\\TempleOfWael\\.vscode\\compileCommands_Default\\TempleOfWael.210.rsp\"",
+		"directory": "D:\\UE 4.27\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\Unreal\\\\TempleOfWael\\\\Source\\\\TempleOfWael\\\\TempleOfWaelProjectile.cpp",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Community\\VC\\Tools\\MSVC\\14.16.27023\\bin\\HostX64\\x64\\cl.exe @\"D:\\Unreal\\TempleOfWael\\.vscode\\compileCommands_Default\\TempleOfWael.210.rsp\"",
+		"directory": "D:\\UE 4.27\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\Unreal\\\\TempleOfWael\\\\Source\\\\TempleOfWael\\\\TempleOfWaelProjectile.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Community\\VC\\Tools\\MSVC\\14.16.27023\\bin\\HostX64\\x64\\cl.exe @\"D:\\Unreal\\TempleOfWael\\.vscode\\compileCommands_Default\\TempleOfWael.210.rsp\"",
+		"directory": "D:\\UE 4.27\\UE_4.27\\Engine\\Source"
+	}
+]

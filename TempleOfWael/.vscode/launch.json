@@ -1,0 +1,128 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "TempleOfWael (Debug)",
+			"request": "launch",
+			"preLaunchTask": "TempleOfWael Win64 Debug Build",
+			"program": "D:\\Unreal\\TempleOfWael\\Binaries\\Win64\\UE4-Win64-Debug.exe",
+			"args": [
+			],
+			"cwd": "D:\\UE 4.27\\UE_4.27",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "D:\\UE 4.27\\UE_4.27\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "TempleOfWael (DebugGame)",
+			"request": "launch",
+			"preLaunchTask": "TempleOfWael Win64 DebugGame Build",
+			"program": "D:\\Unreal\\TempleOfWael\\Binaries\\Win64\\UE4-Win64-DebugGame.exe",
+			"args": [
+			],
+			"cwd": "D:\\UE 4.27\\UE_4.27",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "D:\\UE 4.27\\UE_4.27\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "TempleOfWael (Development)",
+			"request": "launch",
+			"preLaunchTask": "TempleOfWael Win64 Development Build",
+			"program": "D:\\Unreal\\TempleOfWael\\Binaries\\Win64\\UE4.exe",
+			"args": [
+			],
+			"cwd": "D:\\UE 4.27\\UE_4.27",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "D:\\UE 4.27\\UE_4.27\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "TempleOfWael (Shipping)",
+			"request": "launch",
+			"preLaunchTask": "TempleOfWael Win64 Shipping Build",
+			"program": "D:\\Unreal\\TempleOfWael\\Binaries\\Win64\\UE4-Win64-Shipping.exe",
+			"args": [
+			],
+			"cwd": "D:\\UE 4.27\\UE_4.27",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "D:\\UE 4.27\\UE_4.27\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "TempleOfWael (Test)",
+			"request": "launch",
+			"preLaunchTask": "TempleOfWael Win64 Test Build",
+			"program": "D:\\Unreal\\TempleOfWael\\Binaries\\Win64\\UE4-Win64-Test.exe",
+			"args": [
+			],
+			"cwd": "D:\\UE 4.27\\UE_4.27",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "D:\\UE 4.27\\UE_4.27\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "TempleOfWaelEditor (Debug)",
+			"request": "launch",
+			"preLaunchTask": "TempleOfWaelEditor Win64 Debug Build",
+			"program": "D:\\UE 4.27\\UE_4.27\\Engine\\Binaries\\Win64\\UE4Editor-Win64-Debug.exe",
+			"args": [
+				"D:\\Unreal\\TempleOfWael\\TempleOfWael.uproject"
+			],
+			"cwd": "D:\\UE 4.27\\UE_4.27",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "D:\\UE 4.27\\UE_4.27\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "TempleOfWaelEditor (DebugGame)",
+			"request": "launch",
+			"preLaunchTask": "TempleOfWaelEditor Win64 DebugGame Build",
+			"program": "D:\\UE 4.27\\UE_4.27\\Engine\\Binaries\\Win64\\UE4Editor-Win64-DebugGame.exe",
+			"args": [
+				"D:\\Unreal\\TempleOfWael\\TempleOfWael.uproject"
+			],
+			"cwd": "D:\\UE 4.27\\UE_4.27",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "D:\\UE 4.27\\UE_4.27\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "TempleOfWaelEditor (Development)",
+			"request": "launch",
+			"preLaunchTask": "TempleOfWaelEditor Win64 Development Build",
+			"program": "D:\\UE 4.27\\UE_4.27\\Engine\\Binaries\\Win64\\UE4Editor.exe",
+			"args": [
+				"D:\\Unreal\\TempleOfWael\\TempleOfWael.uproject"
+			],
+			"cwd": "D:\\UE 4.27\\UE_4.27",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "D:\\UE 4.27\\UE_4.27\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "Generate Project Files",
+			"type": "clr",
+			"request": "launch",
+			"program": "D:\\UE 4.27\\UE_4.27\\Engine\\Binaries\\DotNET\\UnrealBuildTool.exe",
+			"console": "externalTerminal",
+			"args": [
+				"-projectfiles",
+				"-vscode",
+				"-project=D:\\Unreal\\TempleOfWael\\TempleOfWael.uproject",
+				"-game",
+				"-engine"
+			],
+			"internalConsoleOptions": "openOnSessionStart",
+			"cwd": "D:\\UE 4.27\\UE_4.27"
+		}
+	]
+}
