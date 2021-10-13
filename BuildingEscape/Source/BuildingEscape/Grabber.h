@@ -28,4 +28,8 @@ private:
 	void FindPhysicsHandle();
 	void SetupInputComponent();
 	FHitResult GetFirstPhysicsBodyInReach() const;
+	// Return The Line Trace End.
+	FVector GetPlayersReach() const;
+	// Get Players Position In World.
+	FVector GetPlayersWorldPos() const;
 };

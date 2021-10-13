@@ -3,14 +3,14 @@
         {
             "name": "BuildingEscapeEditor Editor Win64 Development (BuildingEscape)",
             "intelliSenseMode": "msvc-x64",
-            "compileCommands": "C:\\Users\\hayde\\Documents\\Unreal Projects\\BuildingEscape\\.vscode\\compileCommands_BuildingEscape.json",
+            "compileCommands": "C:\\Users\\hayde\\Documents\\TempleOfWael\\BuildingEscape\\.vscode\\compileCommands_BuildingEscape.json",
             "cStandard": "c17",
             "cppStandard": "c++17"
         },
         {
             "name": "Win32",
             "intelliSenseMode": "msvc-x64",
-            "compileCommands": "C:\\Users\\hayde\\Documents\\Unreal Projects\\BuildingEscape\\.vscode\\compileCommands_Default.json",
+            "compileCommands": "C:\\Users\\hayde\\Documents\\TempleOfWael\\BuildingEscape\\.vscode\\compileCommands_Default.json",
             "cStandard": "c17",
             "cppStandard": "c++17"
         }
