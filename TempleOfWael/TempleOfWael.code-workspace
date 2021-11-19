@@ -10,7 +10,12 @@
 		}
 	],
 	"settings": {
-		"typescript.tsc.autoDetect": "off"
+		"typescript.tsc.autoDetect": "off",
+		"C_Cpp.default.forcedInclude": [
+			"${default}",
+			"C:\\Users\\hayde\\Documents\\TempleOfWael\\TempleOfWael\\Intermediate\\Build\\Win64\\UE4Editor\\Development\\TempleOfWael\\Definitions.TempleOfWael.h",
+			"C:\\Users\\hayde\\Documents\\TempleOfWael\\TempleOfWael\\Intermediate\\Build\\Win64\\TempleOfWaelEditor\\Development\\Engine\\SharedPCH.Engine.ShadowErrors.h"
+		]
 	},
 	"extensions": {
 		"recommendations": [
